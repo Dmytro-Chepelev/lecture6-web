@@ -8,3 +8,20 @@ h1 {
   padding: 20px;                          /* відступ від границі елементу до його контенту*/
   margin: 20px;                           /* відступ від границі елементу до іншого елементу */
 }
+
+h2 {
+  color: purple;
+  background: #AAB;
+  width: 60%;                             
+  border: solid purple 3px;               
+  padding: 20px;                          
+  margin: 20px;                           
+}
+
+ol {
+  color: purple;
+  background: #BBC;
+  font-family: "Courier New", monospace;  
+  border: solid purple 3px;               
+  padding: 50px;                          
+}
