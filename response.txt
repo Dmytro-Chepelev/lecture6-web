@@ -1,1 +1,10 @@
+HTTP/1.1 200 OK
+Server: Rebex Tiny Web Server v1.0.0
+Date: Sun, 05 Jun 2022 01:34:38 GMT
+Content-Length: 102
+Content-Type: text/html
+Connection: close
 
+<li>Нагадування 1</li>
+<li>Нагадування 2</li>
+<li>Нагадування 3</li>
